@@ -1,0 +1,13 @@
+.bg-main{
+	background-color: rgb(92, 204, 132);
+}
+.text-main{
+	color: rgb(92, 204, 132);
+}
+page{
+	height: 100%;
+}
+.container{
+	height: 100%;
+	
+}
